@@ -1,4 +1,3 @@
-
 <?php
 $conn=mysqli_connect("localhost","root","","test1") or die("unable to connect:");
 $query="select * from studentdetails";
